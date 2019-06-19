@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT cfa_4899.wsgi:application
